@@ -1,0 +1,4 @@
+name,class,attack,damage,rateoffire,speed,bio
+Warlock,wizard,range,5,3,4,Likes magic
+Barbarian,fight,melee,10,5,1,Got a sword
+Ninja,fight,melee/ranged,5,4,10,Super secret stealth master
