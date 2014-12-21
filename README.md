@@ -7,8 +7,11 @@ CSVtoXML
 
 If you don't move the files within the folder type here are the paths
 
-'''
 CSV location: classes.csv
+
 XSLT location: transform.xsl
+
 Export Location: file.xml
-'''
+
+
+
